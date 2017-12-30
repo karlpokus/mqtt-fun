@@ -1,0 +1,22 @@
+{
+  "name": "mqtt-fun",
+  "version": "0.1.0",
+  "description": "playing with the mqtt protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlpokus/mqtt-fun.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karlpokus/mqtt-fun/issues"
+  },
+  "homepage": "https://github.com/karlpokus/mqtt-fun#readme",
+  "dependencies": {
+    "mqtt": "^2.15.0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+	"brokers": {
+		"hivemq": "mqtt://broker.hivemq.com",
+		"mosquitto": "mqtt://test.mosquitto.org/"
+	}
+}
